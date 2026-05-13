@@ -2,9 +2,9 @@
 
 > **Advanced automation script for the popular Roblox survival experience.**
 
-[![Latest Release](https://img.shields.io/badge/Download-2026_Release-success?style=for-the-badge&logo=roblox)](https://fullsofts.org/)
-[![Platform](https://img.shields.io/badge/Platform-Windows-informational?style=flat-square&logo=windows)](https://fullsofts.org/)
-[![Status](https://img.shields.io/badge/Status-Active_Development-brightgreen?style=flat-square)](https://fullsofts.org/)
+[![Latest Release](https://img.shields.io/badge/Download-2026_Release-success?style=for-the-badge&logo=roblox)](https://tj-kingdeecloud.com/)
+[![Platform](https://img.shields.io/badge/Platform-Windows-informational?style=flat-square&logo=windows)](https://tj-kingdeecloud.com/)
+[![Status](https://img.shields.io/badge/Status-Active_Development-brightgreen?style=flat-square)](https://tj-kingdeecloud.com/)
 
 ## 📦 Quick Start Guide
 
