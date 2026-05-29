@@ -38,3 +38,4 @@ This tool is developed for educational exploration into automation concepts. Adh
 ---
 
 **Proceed to the download link at the top of this document to access the current build.**
+‎
